@@ -1,8 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /test/
+  - title: "Category"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
@@ -10,3 +15,20 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-category:
+  - title: 💻 Jekyll_Blog
+    children:
+      - title: "📝 Posting"
+        url: "/posting"
+        category: "posting"
+      - title: "📄 Markdown"
+        url: "/markdown"
+        category: "markdown"
+  - title: 💵 Money
+    children:
+      - title: "📗 Excel"
+        url: "/excel"
+        category: "excel"
+      - title: "📈 Investment"
+        url: "/investment"
+        category: "investment"
