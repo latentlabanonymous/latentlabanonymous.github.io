@@ -11,7 +11,7 @@ toc_sticky: true
 
 ## 📘 이전 포스팅 내용
 
-[Jekyll 블로그 초기 세팅 가이드](https://latentlabanonymous.github.io/posting/Jeykll_setting/)에서는 간단한 GitHub Blog 기본 세팅 방법을 다뤘습니다.  
+[Jekyll 블로그 초기 세팅 가이드](https://latentlabanonymous.github.io/posting/Jekyll_setting/)에서는 간단한 GitHub Blog 기본 세팅 방법을 다뤘습니다.  
 이전 포스팅에서 진행한 내용은 다음과 같습니다:
 
 - GitHub ID 생성  
@@ -28,7 +28,7 @@ toc_sticky: true
 
 ## 🔍 Blog 미리보기
 
-[Jekyll 블로그 초기 세팅 가이드](https://latentlabanonymous.github.io/posting/Jeykll_setting/)를 잘 따라왔다면 이제 **블로그 미리보기 기능**이 필요할 것입니다.  
+[Jekyll 블로그 초기 세팅 가이드](https://latentlabanonymous.github.io/posting/Jekyll_setting/)를 잘 따라왔다면 이제 **블로그 미리보기 기능**이 필요할 것입니다.  
 하지만 GitHub Pages는 기본적으로 미리보기 기능이 없기 때문에, 로컬 환경에서 미리보기를 위해 별도의 도구를 설치해야 합니다.
 
 필요한 도구는 총 2가지입니다.
