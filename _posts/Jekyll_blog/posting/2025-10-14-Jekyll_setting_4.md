@@ -126,9 +126,14 @@ assets/images/Jekyll_blog/posting/2025-10-14-Jekyll_setting_4/
 **Step 3.** `_layouts/default.html`의 마지막 줄에 다음 스크립트를 추가합니다.
 
 ```html
-<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.magnific-popup.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/assets/js/magnific-popup-setting.js"></script>
+
+    </div>
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.js"></script>
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.magnific-popup.js"></script>
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/js/magnific-popup-setting.js"></script>
+    
+  </body>
+</html>
 ```
 
 적용 후 이미지를 클릭하면 팝업 확대 기능이 작동합니다.

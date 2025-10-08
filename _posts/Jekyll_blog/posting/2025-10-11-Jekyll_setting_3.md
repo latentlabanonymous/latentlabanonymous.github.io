@@ -11,7 +11,7 @@ toc_sticky: true
 
 ## 📘 이전 포스팅 내용
 
-[Jekyll 블로그 초기 세팅 가이드](https://latentlabanonymous.github.io/posting/Jekyll_setting_2/)에서는 간단한 GitHub Blog 기본 세팅 방법을 다뤘습니다.  
+[Jekyll 블로그 초기 세팅 가이드 - 2](https://latentlabanonymous.github.io/posting/Jekyll_setting_2/)에서는 간단한 GitHub Blog 기본 세팅 방법을 다뤘습니다.  
 이전 포스팅에서 진행한 내용은 다음과 같습니다:
 
 - Blog 미리보기  
