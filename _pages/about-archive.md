@@ -4,4 +4,4 @@ layout: single
 permalink: /test/
 author_profile: true
 ---
-test
+이곳은 LatentLab의 소개 페이지입니다.
