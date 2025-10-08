@@ -315,7 +315,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_pages_guide"
+      path: ""
       type: posts
     values:
       layout: single
