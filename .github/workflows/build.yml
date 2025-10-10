@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - master
+  schedule:
+    - cron: '*/10 * * * *'   # ⏱ 10분마다 실행 (테스트용)
   workflow_dispatch: {}
   repository_dispatch: {}
 
