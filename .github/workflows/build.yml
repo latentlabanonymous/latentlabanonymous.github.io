@@ -11,7 +11,7 @@ on:
 
 jobs:
   build:
-    if: github.repository == 'mmistakes/minimal-mistakes' 삭제
+    if: github.repository == 'mmistakes/minimal-mistakes'
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
