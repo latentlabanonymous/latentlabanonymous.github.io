@@ -9,10 +9,6 @@ on:
   workflow_dispatch: {}
   repository_dispatch: {}
 
-permissions:
-  contents: write
-  actions: read
-
 jobs:
   build:
     if: github.repository == 'mmistakes/minimal-mistakes' 삭제
