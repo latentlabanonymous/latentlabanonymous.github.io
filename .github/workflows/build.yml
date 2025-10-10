@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '2 * * * *'   # ⏱ 10분마다 실행 (테스트용)
+    - cron: '0 0 * * *'   # ⏱ 10분마다 실행 (테스트용)
   workflow_dispatch: {}
   repository_dispatch: {}
 
