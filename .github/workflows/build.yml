@@ -6,8 +6,8 @@ on:
       - master
   schedule:
     - cron: '0 0 * * *'   # ⏱ 10분마다 실행 (테스트용)
-  workflow_dispatch: {}
-  repository_dispatch: {}
+  workflow_dispatch:
+  repository_dispatch:
 
 jobs:
   build:
